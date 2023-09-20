@@ -1,0 +1,100 @@
+1,Walmart,Retail,611.289,2.100.000,Bentonville/ Arkansas
+2,Amazon,Retail and Cloud Computing,513.983,1.540.000,Seattle/ Washington
+3,Exxon Mobil,Petroleum industry,413.68,62,Spring/ Texas
+4,Apple,Electronics industry,394.328,164,Cupertino/ California
+5,UnitedHealth Group,Healthcare,324.162,400,Minnetonka/ Minnesota
+6,CVS Health,Healthcare,322.467,259.5,Woonsocket/ Rhode Island
+7,Berkshire Hathaway,Conglomerate,302.089,383,Omaha/ Nebraska
+8,Alphabet,Technology,282.836,156,Mountain View/ California
+9,McKesson Corporation,Health,276.711,48.5,Irving/ Texas
+10,Chevron Corporation,Petroleum industry,246.252,43.846,San Ramon/ California
+11,AmerisourceBergen,Pharmaceutical industry,238.587,41.5,Chesterbrook/ Pennsylvania
+12,Costco,Retail,226.954,304,Issaquah/ Washington
+13,Microsoft,Technology,198.27,221,Redmond/ Washington
+14,Cardinal Health,Healthcare,181.364,46.035,Dublin/ Ohio
+15,Cigna,Health Insurance,180.516,70.231,Bloomfield/ Connecticut
+16,Marathon Petroleum,Petroleum industry,180.012,17.8,Findlay/ Ohio
+17,Phillips 66,Petroleum industry,175.702,13,Houston/ Texas
+18,Valero Energy,Petroleum industry,171.189,9.743,San Antonio/ Texas
+19,Ford Motor Company,Automotive industry,158.057,173,Dearborn/ Michigan
+20,The Home Depot,Retail,157.403,471.6,Atlanta/ Georgia
+21,General Motors,Automotive,156.735,167,Detroit/ Michigan
+22,Elevance Health,Healthcare,156.595,102.2,Indianapolis/ Indiana
+23,JPMorgan Chase,Financial services,154.792,293.723,New York City/ New York
+24,Kroger,Retail,148.258,430,Cincinnati/ Ohio
+25,Centene,Healthcare,144.547,74.3,St. Louis/ Missouri
+26,Verizon Communications,Telecommunications,136.835,117.1,New York City/ New York
+27,Walgreens Boots Alliance,Pharmaceutical industry,132.703,262.5,Deerfield/ Illinois
+28,Fannie Mae,Financials,121.596,8,Washington/ D.C.
+29,Comcast,Telecommunications,121.427,186,Philadelphia/ Pennsylvania
+30,AT&T,Conglomerate,120.741,160.7,Dallas/ Texas
+31,Meta Platforms,Technology,116.609,86.482,Menlo Park/ California
+32,Bank of America,Financials,115.053,216.823,Charlotte/ North Carolina
+33,Target Corporation,Retail,109.12,440,Minneapolis/ Minnesota
+34,Dell Technologies,Technology,102.301,133,Round Rock/ Texas
+35,Archer Daniels Midland,Food industry,101.556,41.181,Chicago/ Illinois
+36,Citigroup,Financials,101.078,238.104,New York City/ New York
+37,United Parcel Service,Transportation,100.338,404.7,Atlanta/ Georgia
+38,Pfizer,Pharmaceutical industry,100.33,83,New York City/ New York
+39,Lowe's,Retail,97.059,244.5,Mooresville/ North Carolina
+40,Johnson & Johnson,Pharmaceutical industry,94.943,152.7,New Brunswick/ New Jersey
+41,FedEx,Transportation,93.512,518.249,Memphis/ Tennessee
+42,Humana,Health Insurance,92.87,67.1,Louisville/ Kentucky
+43,Energy Transfer Partners,Petroleum industry,89.876,12.565,Dallas/ Texas
+44,State Farm,Financials,89.328,60.519,Bloomington/ Illinois
+45,Freddie Mac,Financials,86.717,7.819,McLean/ Virginia
+46,PepsiCo,Beverage,86.859,315,Purchase/ New York
+47,Wells Fargo,Financials,82.859,238,San Francisco/ California
+48,The Walt Disney Company,Media,82.722,195.8,Burbank/ California
+49,ConocoPhillips,Petroleum industry,82.156,9.5,Houston/ Texas
+50,Tesla,Automotive and Energy,81.462,127.855,Austin/ Texas
+51,Procter & Gamble,Consumer products Manufacturing,80.187,106,Cincinnati/ Ohio
+52,United States Postal Service,Logistics,78.62,576,Washington/ D.C.
+53,Albertsons,Retail,77.65,198.65,Boise/ Idaho
+54,General Electric,Conglomerate,76.555,172,Boston/ Massachusetts
+55,MetLife,Financials,69.898,45,New York City/ New York
+56,Goldman Sachs,Financials,68.711,48.5,New York City/ New York
+57,Sysco,Food Service,68.636,70.51,Houston/ Texas
+58,Bunge Limited,Food industry,67.232,23,White Plains/ New York
+59,RTX Corporation,Conglomerate,67.074,182,Arlington County/ Virginia
+60,Boeing,Aerospace and defense,66.608,156,Chicago/ Illinois
+61,StoneX Group,Financials,66.036,305,New York City/ New York
+62,Lockheed Martin,Aerospace and Defense,65.984,116,Bethesda/ Maryland
+63,Morgan Stanley,Financials,65.936,82.427,New York City/ New York
+64,Intel,Technology,63.054,131.9,Santa Clara/ California
+65,HP,Technology,62.983,58,Palo Alto/ California
+66,TD Synnex,Infotech,62.344,28.5,Clearwater/ Florida
+67,IBM,Technology,60.53,303.1,Armonk/ New York
+68,HCA Healthcare,Healthcare,60.233,250.5,Nashville/ Tennessee
+69,Prudential Financial,Financials,60.05,39.583,Newark/ New Jersey
+70,Caterpillar,Machinery,59.427,109.1,Deerfield/ Illinois
+71,Merck & Co.,Pharmaceutical industry,59.283,68,Kenilworth/ New Jersey
+72,World Fuel Services,Petroleum industry and Logistics,59.043,5.214,Miami/ Florida
+73,New York Life Insurance Company,Insurance,58.445,15.05,New York City/ New York
+74,Enterprise Products,Petroleum industry,58.186,7.3,Houston/ Texas
+75,AbbVie,Pharmaceutical industry,58.054,50,Lake Bluff/ Illinois
+76,Plains All American Pipeline,Petroleum industry,57.342,4.1,Houston/ Texas
+77,Dow Chemical Company,Chemical industry,56.902,37.8,Midland/ Michigan
+78,AIG,Insurance,56.437,26.2,New York City/ New York
+79,American Express,Financial,55.625,77.3,New York City/ New York
+80,Publix,Retail,54.942,242,Lakeland/ Florida
+81,Charter Communications,Telecommunications,54.022,101.7,Stamford/ Connecticut
+82,Tyson Foods,Food Processing,53.282,142,Springdale/ Arkansas
+83,John Deere,Agriculture manufacturing,52.577,82.239,Moline/ Illinois
+84,Cisco,Telecom Hardware Manufacturing,51.557,83.3,San Jose/ California
+85,Nationwide Mutual Insurance Company,Financial,51.45,24.791,Columbus/ Ohio
+86,Allstate,Insurance,51.412,54.25,Northfield Township/ Cook County/ Illinois
+87,Delta Air Lines,Airline,50.582,95,Atlanta/ Georgia
+88,Liberty Mutual,Insurance,49.956,50,Boston/ Massachusetts
+89,TJX,Retail,49.936,329,Framingham/ Massachusetts
+90,Progressive Corporation,Insurance,49.611,55.063,Mayfield Village/ Ohio
+91,American Airlines,Airline,48.971,129.7,Fort Worth/ Texas
+92,CHS,Agriculture cooperative,47.194,10.014,Inver Grove Heights/ Minnesota
+93,Performance Food Group,Food Processing,47.194,34.825,Richmond/ Virginia
+94,PBF Energy,Petroleum industry,46.83,3.616,Parsippany–Troy Hills/ New Jersey
+95,Nike,Apparel,46.71,79.1,Beaverton/ Oregon
+96,Best Buy,Retail,46.298,71.1,Richfield/ Minnesota
+97,Bristol-Myers Squibb,Pharmaceutical industry,46.159,34.3,New York City/ New York
+98,United Airlines,Airline,44.955,92.795,Chicago/ Illinois
+99,Thermo Fisher Scientific,Laboratory instruments,44.915,130,Waltham/ Massachusetts
+100,Qualcomm,Technology,44.2,51,San Diego/ California
